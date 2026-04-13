@@ -9,19 +9,19 @@ I am a software developer focused on Java and Spring Boot backend development, w
 <h3 align="left">Tech Stack</h3>
 
 <p align="left">
-<strong>Languages:</strong> Java, Python<br>
-<strong>Backend:</strong> Spring Boot, Spring Security, REST API, GraphQL, Hibernate, Spring Data JPA<br>
-<strong>Authentication:</strong> JWT, OAuth2<br>
-<strong>Databases:</strong> MySQL, PostgreSQL<br>
-<strong>Tools & DevOps:</strong> Git, GitHub, Linux, Docker, CI/CD<br>
-<strong>Security Tools:</strong> Wireshark, Burp Suite, Nmap, Splunk<br>
-<strong>Networking & Security:</strong> Firewall, IDS/IPS, TCP/IP, DNS, HTTP/HTTPS, VPN
+• Java, Python<br>
+• Spring Boot, Spring Security, REST API, GraphQL, Hibernate, Spring Data JPA<br>
+• JWT, OAuth2<br>
+• MySQL, PostgreSQL<br>
+• Git, GitHub, Linux, Docker, CI/CD<br>
+• Wireshark, Burp Suite, Nmap, Splunk<br>
+• Firewall, IDS/IPS, TCP/IP, DNS, HTTP/HTTPS, VPN
 </p>
 
 <h3 align="left">Contact with me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arda-toga/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME/" target="_blank">LinkedIn</a> •
   <a href="https://medium.com/@ardatoga" target="_blank">Medium</a> •
   <a href="mailto:toa.arda@gmail.com">toa.arda@gmail.com</a>
 </p>
